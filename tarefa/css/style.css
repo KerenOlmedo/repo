@@ -29,3 +29,10 @@ body{
 #card{
     width: 500px;
 }
+
+#footer{
+    background-color: #363636;
+    position:absolute;
+	bottom:0;
+	width:100%;
+}
